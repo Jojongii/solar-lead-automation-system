@@ -22,7 +22,7 @@ It automates lead evaluation by assigning scores based on key criteria and class
 
 ---
 
-## 🧠 Example Transformation
+## 🧠 System Output
 
 ### Input (Google Form)
 ![Form](screenshots/form.png)
@@ -83,6 +83,12 @@ This project demonstrates:
 * Lead qualification systems
 * Business logic implementation
 * Data processing and decision systems
+
+## 📈 Business Impact
+
+- Reduces lead response time from manual review to near-instant classification  
+- Helps prioritize high-value leads for faster conversion  
+- Simulates CRM-style lead qualification used in sales pipelines
 
 ---
 
