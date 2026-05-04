@@ -24,13 +24,17 @@ It automates lead evaluation by assigning scores based on key criteria and class
 
 ## 🧠 Example Transformation
 
-### Before (Raw Lead Data)
+### Input (Google Form)
+![Form](screenshots/form.png)
 
-![Before](screenshots/before.png)
+### Input Data (Google Form Responses Sheet)
+![Before](screenshots/sheet-form-responses.png)
 
-### After (Scored & Categorized Leads)
+### After (Processed Leads Table)
+![After](screenshots/sheet-leads.png)
 
-![After](screenshots/after.png)
+### Automation Workflow
+![Workflow](screenshots/workflow.png)
 
 ---
 
