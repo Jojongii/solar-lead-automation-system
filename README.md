@@ -109,7 +109,6 @@ This project demonstrates:
 ## 📂 Project Structure
 
 * `/screenshots` → Before & After outputs
-* `/docs` (optional) → Workflow explanation
 
 ---
 
