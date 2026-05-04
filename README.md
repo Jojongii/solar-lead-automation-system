@@ -1,5 +1,9 @@
 # ⚡ AI-Powered Lead Scoring & Qualification System
 
+[![Make Scenario](https://img.shields.io/badge/Make-View%20Scenario-blue?logo=make&logoColor=white)](https://us2.make.com/public/shared-scenario/PnZlybNaRlt/forms-sheets-email-work-flow)
+[![Google Form](https://img.shields.io/badge/Google%20Form-Open-lightgrey?logo=googleforms&logoColor=white)](https://forms.gle/8tYh82jxKdzRUtNm6)
+[![Google Sheet](https://img.shields.io/badge/Google%20Sheet-View-green?logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1JxnEelnH4mieW0T1D37ZTRdnl5HfQ4Q-akH-prKmypY/edit?usp=sharing)
+
 ## 📌 Overview
 
 This project simulates a real-world lead management system for a solar energy business.
