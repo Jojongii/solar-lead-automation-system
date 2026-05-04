@@ -102,12 +102,3 @@ This project demonstrates:
 ## 👤 Author
 
 Jonathan – Aspiring Tech VA focused on automation, AI workflows, and data systems.
-
----
-
-# 💡 Why this works (quick note)
-
-* Same structure as Project 1 ✅
-* Same tone and section flow ✅
-* Different use case (shows range) ✅
-* Clean and recruiter-friendly ✅
