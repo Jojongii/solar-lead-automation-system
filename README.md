@@ -34,7 +34,7 @@ It automates lead evaluation by assigning scores based on key criteria and class
 ![After](screenshots/sheet-leads.png)
 
 ### Automation Workflow
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/make-scenario-overview.png)
 
 ---
 
