@@ -12,6 +12,12 @@ It automates lead evaluation by assigning scores based on key criteria and class
 
 ---
 
+## 🎥 Demo
+
+▶️ [Watch Project Demo on Loom](https://www.loom.com/share/c75a5e5cbcf247dd8bb00e859567b30a)
+
+---
+
 ## 🚀 What This System Does
 
 * Captures lead data from Google Forms
